@@ -1,3 +1,15 @@
+
+# Habitize is my final project for SDC445. It is a very basic but simple to use habit-tracking app made with REACT that lets users add daily habits, mark them complete, and delete the habits while tracking the progress. 
+
+Habits are stored in local storage so progress is saved even after refreshing the page.
+#
+#
+#
+#
+#
+#
+#
+#
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
