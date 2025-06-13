@@ -2,7 +2,7 @@
   "name": "angwin4408-habitize-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://code-awines.github.io/my-react-app-habitize",
+  "homepage": ".",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
